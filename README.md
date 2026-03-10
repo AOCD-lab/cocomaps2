@@ -5,7 +5,7 @@
 ## ⚙️ Installation
 
 
-### 1. Create and activate a Conda environment
+### 1. Create and activate a Conda environment 
 
 ```bash
 conda create -n coco2 python=3.12
